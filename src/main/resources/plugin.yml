@@ -1,3 +1,3 @@
 name: PluginTemplate
-version: 1.14-pre5-SNAPSHOT
+version: 1.0
 main: io.github.makotomiyamoto.PluginTemplate.Main
